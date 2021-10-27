@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe", "TicTacToe.csproj", "{B41CAD6A-6984-41AF-936C-5392066E396E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1A924CD5-03C2-4AA1-AFC1-0FD386AC601A}"
+	ProjectSection(SolutionItems) = preProject
+		XSLTFile1.xslt = XSLTFile1.xslt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B41CAD6A-6984-41AF-936C-5392066E396E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41CAD6A-6984-41AF-936C-5392066E396E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41CAD6A-6984-41AF-936C-5392066E396E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41CAD6A-6984-41AF-936C-5392066E396E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8C74F48-1493-487C-9143-801DBDDAA4A6}
+	EndGlobalSection
+EndGlobal
